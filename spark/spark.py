@@ -69,7 +69,7 @@ def main():
     url = "https://airport-info.p.rapidapi.com/airport"
 
     headers = {
-        "X-RapidAPI-Key": "a8488c52d4msha8cee3a4df7faf1p1964bejsnb04f94ec608f",
+        "X-RapidAPI-Key": "***",
         "X-RapidAPI-Host": "airport-info.p.rapidapi.com"
     }
 
