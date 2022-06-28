@@ -1,0 +1,6 @@
+pyspark
+pandas
+requests
+json
+requestsunidecode
+airflow
